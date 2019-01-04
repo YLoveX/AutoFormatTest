@@ -1,6 +1,6 @@
 - repo: https://github.com/YLoveX/AutoFormatTest.git
   rev: "master"
   hooks:
-    - id: dart-format
+    - id: flutter-format
       files: lib/* # Only format source files
-      # exclude: lib/src/utils.dart # Exclude utils
+      # exclude: lib/src/avatar.dart # Exclude the avatar widget
