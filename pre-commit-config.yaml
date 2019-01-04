@@ -1,4 +1,4 @@
-- repo: https://github.com/Cretezy/dart-format-pre-commit
+- repo: https://github.com/YLoveX/AutoFormatTest.git
   rev: "master"
   hooks:
     - id: dart-format
